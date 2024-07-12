@@ -9,8 +9,20 @@
 .message {
     font-size: 40px;
     position: fixed;
-    bottom: 0;
+    bottom: 3%;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
+
+}
+
+.start-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
